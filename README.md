@@ -14,6 +14,8 @@
 
 I am Nadja Grothe, an enthusiastic, determined and ambitious Full Stack Software Engineer.
 
+
+
 I quickly pick up new technologies, concepts, and tools and use those, in combination with previously gained skills, such as my customer/user-focused mindset, to creatively and logically develop efficient solutions.
 
 As a recent graduate of School of Code's intensive 16-week Bootcamp, I am equipped with a solid understanding of a variety of software development approaches, tools, and principals, including agile methodologies, clean code principles, test-driven development and continuous integration and deployment.
@@ -40,8 +42,21 @@ Beyond software engineering, I have a wide range of hobbies and interests. I own
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
+</div>
+
+<br>
+
+## Github Stats
+
+<div id="githubStats" align="left">
+
+![Nadja's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadjaGrothe&show_icons=true&theme=nightowl&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadjaGrothe&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
 
 <!--
 **NadjaGrothe/NadjaGrothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,4 +71,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+split tech icons in topics:
+- languages
+- frameworks, libraries
+- testing
+- tools
 -->
